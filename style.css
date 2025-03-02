@@ -1,0 +1,88 @@
+.s1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
+
+.d1 {
+  background-color: yellow;
+  color: black;
+}
+
+header h1 {
+  background-color: black;
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+  border-radius: 20px;
+}
+
+.d2 {
+  background-color: yellow;
+  color: black;
+}
+
+.f1 {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: red;
+  border-radius: 20px;
+}
+
+.c1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.z1 {
+  background-color: red;
+  color: white;
+}
+
+.z2 {
+  background-color: yellow;
+  color: black;
+}
+.z3 {
+  background-color: green;
+  color: white;
+}
+
+.g1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: aqua;
+}
+
+.k5 {
+  background-color: blue;
+  color: white;
+}
+
+.sp {
+  background-color: orange;
+  color: white;
+}
+
+.jr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jr img {
+  width: 400px;
+}
